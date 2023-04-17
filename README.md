@@ -8,4 +8,4 @@ Ideal um kurz den Status der Solar/Speicheranlage zu überprüfen, ohne jedes ma
 "Hey Siri, Anlagen Status"
 
 Download:
-icloud.com/shortcuts/65505ab6c2e94c36a7f22540ec6ce047
+www.icloud.com/shortcuts/65505ab6c2e94c36a7f22540ec6ce047
